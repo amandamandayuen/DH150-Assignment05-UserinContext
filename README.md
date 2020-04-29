@@ -24,15 +24,15 @@
 -	The whole interview was conducted virtually through Zoom and was recorded through Zoom. Since I expected the target audience experience the activity at home, the virtual interview did situate me within the context of the interviewee, even though I was not physically present. I sent the list of interview questions to the interviewee, so she was able to look at the questions while I was asking the questions. The interviewee shared her screen while she was showing me the activities she has done, and I occasionally take notes on my laptop.
 
 ## Contextual Inquiry Data
-#### Link to the Interview Guide:
+#### 1.Link to the Interview Guide:
 - https://drive.google.com/open?id=1eswEadmUL78wq5xEgeJxjR3mEDLUMQjo
 
-#### Links to Interview Videos:
+#### 2.Links to Interview Videos:
 - Video 1 (it was the beginning of the interview, the recording was interrupted so it is really short): https://youtu.be/J3zD_L0mrDo
 
 - Video 2 (the rest part of the interview): https://youtu.be/qHhyOoC9JZ4
 
-#### Link to the Interview Transcript:
+#### 3.Link to the Interview Transcript:
 - https://drive.google.com/open?id=1qkKPvf9l0mDs80p6v1XWeXg_CKJ8bEZe
 
 ## Reflection
