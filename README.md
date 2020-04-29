@@ -2,15 +2,38 @@
 ## Amanda Ruan
 
 ## Step01: Specify the main design challenge 
-### What is the main activity your project would support the users?
+#### What is the main activity your project would support the users?
 -	This project will support the users who want to gain local or worldwide information (such as government announcements, local news, health and help resources) about the development of COVID-19, keep track of the COVID-19 data, and provide other supports that users might need. 
-### What is the basic need involved for that activity? 
+#### What is the basic need involved for that activity? 
 -	The needs for safety is the basic need involved, because users want to be informed and feel secure under the pandemic. Users want to search for health resources and pandemic information to understand the situation and gain the feeling of security and being in charge against the disease/risk of disease.
-### What is(are) the traditional/current solution(s) to satisfy the needs?
+#### What is(are) the traditional/current solution(s) to satisfy the needs?
 -	Traditional solutions include gaining information through traditional mass media channels, such as TV, or gaining information through search engine, news sites, phone news notifications, or through social connections, such as being informed by family members/friends interpersonally or through social media sites. 
-### What is(are) the limitation(s) that possibly would be improved with (digital) technology?
+#### What is(are) the limitation(s) that possibly would be improved with (digital) technology?
 -	Current limitations include that the public could be overwhelmed (psychologically) by current information/data from different sources; the information could be fragmented, overloaded, unorganized or lacks factual support. People might also spend too much time searching for information or not being updated in-time. 
 
+## Step02: Target users 
+#### What are the characteristics of users? (ex. demographics, preference, expertise)
+-	While the project aims to support the public in general, certain people might be more likely to use the app than others. The demographics include people with educational backgrounds, who own a phone, younger to middle age, who live in urban or rural areas. Preference of users include that they desire to be informed and want to understand both worldwide and local situations of the pandemic. Users might also want to seek for help related to the pandemic. Expertise includes that users need to have certain knowledge/experience of how to navigate an app through a phone. 
+#### Where would the users do that activity?
+-	Under national-wide or state-wide “Safer at Home” orders, users are most likely to do the activity at home. 
+#### What would the users do to complete that activity? (e.g., goal, operation, method, action)
+-	Since the main goals are being informed and look for help, users would search for information on search engine, news sites or social media sites, watch TV, read newspapers, call authority resources for help, and interpersonally ask or call or text family members or friends.
+
+## Step03: Pick research methods (or a combination of methods) 
+-	Contextual interview with participatory observation is the research method used for this assignment. I, as the interviewer, would communicate with the interviewee and ask open-ended questions throughout the process of the research. I would experience the interviewee’s context and join the discussion without leading the activities shown by the interviewee. 
+-	The whole interview was conducted virtually through Zoom and was recorded through Zoom. Since I expected the target audience experience the activity at home, the virtual interview did situate me within the context of the interviewee, even though I was not physically present. I sent the list of interview questions to the interviewee, so she was able to look at the questions while I was asking the questions. The interviewee shared her screen while she was showing me the activities she has done, and I occasionally take notes on my laptop.
+
+## Contextual Inquiry Data
+#### Link to the Interview Guide:
+- https://drive.google.com/open?id=1eswEadmUL78wq5xEgeJxjR3mEDLUMQjo
+
+#### Links to Interview Videos:
+- Video 1 (it was the beginning of the interview, the recording was interrupted so it is really short): https://youtu.be/J3zD_L0mrDo
+
+- Video 2 (the rest part of the interview): https://youtu.be/qHhyOoC9JZ4
+
+#### Link to the Interview Transcript:
+- https://drive.google.com/open?id=1qkKPvf9l0mDs80p6v1XWeXg_CKJ8bEZe
 
 ## Reflection
 
