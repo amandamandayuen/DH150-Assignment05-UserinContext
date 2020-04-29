@@ -1,6 +1,17 @@
 # DH150-Assignment05-UserinContext
 ## Amanda Ruan
 
+## Step01: Specify the main design challenge 
+### What is the main activity your project would support the users?
+-	This project will support the users who want to gain local or worldwide information (such as government announcements, local news, health and help resources) about the development of COVID-19, keep track of the COVID-19 data, and provide other supports that users might need. 
+### What is the basic need involved for that activity? 
+-	The needs for safety is the basic need involved, because users want to be informed and feel secure under the pandemic. Users want to search for health resources and pandemic information to understand the situation and gain the feeling of security and being in charge against the disease/risk of disease.
+### What is(are) the traditional/current solution(s) to satisfy the needs?
+-	Traditional solutions include gaining information through traditional mass media channels, such as TV, or gaining information through search engine, news sites, phone news notifications, or through social connections, such as being informed by family members/friends interpersonally or through social media sites. 
+### What is(are) the limitation(s) that possibly would be improved with (digital) technology?
+-	Current limitations include that the public could be overwhelmed (psychologically) by current information/data from different sources; the information could be fragmented, overloaded, unorganized or lacks factual support. People might also spend too much time searching for information or not being updated in-time. 
+
+
 ## Reflection
 
   Overall, the interview went more smoothly than I thought. At first I thought it might be hard to interview someone virtually. I also spent a lot more time on coming up with the interview guide than I thought, and I actually found it hard to create objective open-ended contextual and activity questions and also to create contextual questions that relevant to my project theme. Throughout the interview process, although I try to actively initiate more questions based on the interviewee’s responses, I found it hard to come up with interview questions at the same time when I was taking in and comprehending the relative novel information provided by the interviewee. So when I was reviewing the interview videos, I felt like at some points, I could ask more insight questions but I did not think about that during the actual interview. 
